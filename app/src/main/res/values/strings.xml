@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StockTilesApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stockTickerLabelName">Stock Ticker:</string>
+    <string name = "add">Add Stock Ticker</string>
+    <string name = "delete">Delete Stock Ticker</string>
+    <string name = "list">List All Stock Tickers</string>
+    <string name = "hint">Add or Delete Stock Ticker</string>
+    <string name = "complex_list">List Stock Tickers With Values</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+</resources>
