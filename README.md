@@ -1,3 +1,3 @@
 # StockTilesApp
 
-![My image](https://KentonSmith.github.com/StockTilesApp/images/Activity_Flow_Chart.png)
+![My image](https://raw.github.com/StockTilesApp/app/src/main/res/mipmap-mdpi/Activity_Flow_Chart.png)
