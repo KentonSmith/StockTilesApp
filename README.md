@@ -1,3 +1,3 @@
 # StockTilesApp
 
-![Alt](https://raw.github.com/StockTilesApp/app/src/main/res/mipmap-mdpi/Activity_Flow_Chart.png)
+![](https://s3.amazonaws.com/stocktilesappimage/Activity_Flow_Chart.png?X-Amz-Date=20150920T000143Z&X-Amz-Expires=300&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Signature=e6e39f7f28d5f94ac91c8d25ecfa33a922004fc690e02718c44070d8df352085&X-Amz-Credential=ASIAJKNSPRHX4E6L2TXQ/20150920/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=Host&x-amz-security-token=AQoDYXdzEJn//////////wEakAK9hv3l7vptn1yCoODVGgDR%2BQEXqAxz70nDKQlOyPcq%2B7bb4HVSNfz14U/1I7p0uxwVIPiY9SJIYFnay2mSslRViiuHujonA6nAa2zlbV/xh1u2yuKfqgbzv2RCluGCynRu6DlbttsOr5aG0BzK2Acz3feJpXpzLhWzbBJbiw3EM84Jkt7RpgCJUqYM8T/4r1CEP2PXQZMhbLuipiBiZ4wvFRi8hp3Sld6B5HFUwB%2BYMitkFw684UuP19VLBfXWzpVFoQSNs6P5Jjb%2ByvYJICRenClIenHb1e6QmT5AVEnOm11uNA4%2Bo%2Bgz/8OExVxQJEohHK/fJcQN9%2BHNivg3kJAjU5CXrUklWDvDqNUVP8aciCC47vevBQ%3D%3D)
